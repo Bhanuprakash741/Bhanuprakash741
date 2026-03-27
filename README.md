@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/150" width="150" style="border-radius:50%;" alt="Bhanu Prakash Vadlamudi"/>
+<img src="bhanu_profile.png" width="150" style="border-radius:50%;" alt="Bhanu Prakash Vadlamudi"/>
+
 
 # Bhanu Prakash Vadlamudi
 
