@@ -104,18 +104,6 @@ Data Scientist with 3+ years of production-grade experience delivering machine l
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanuprakash741&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuprakash741&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## Certifications
 
@@ -133,10 +121,11 @@ Data Scientist with 3+ years of production-grade experience delivering machine l
 <div align="center">
 
 [![Email](https://img.shields.io/badge/bhanuvadlamudi96%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanuvadlamudi96@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/bhanu-prakash-vadlamudi-91996a277/))
-[![Phone](https://img.shields.io/badge/%2B1_(762)_699--4561-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+17626994561)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanu-prakash-vadlamudi-91996a277/)
+[![Phone](https://img.shields.io/badge/%2B1_(762)_699--4561-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/17626994561)
 
 </div>
+
 
 ---
 
