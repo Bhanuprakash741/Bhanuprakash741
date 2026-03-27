@@ -7,9 +7,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;NLP+%7C+Predictive+Modeling+%7C+Big+Data;AWS+Certified+Machine+Learning+Specialist;Turning+Data+into+Business+Impact)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanu-prakash-vadlamudi-91996a277/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanuvadlamudi96@gmail.com)
-[![Location](https://img.shields.io/badge/Marietta%2C%20GA-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Marietta%2C%20GA-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Marietta,GA)
 
 </div>
 
